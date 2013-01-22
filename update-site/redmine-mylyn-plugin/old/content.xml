@@ -8,10 +8,10 @@
   <references size='8'>
     <repository uri='http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/' url='http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/' type='0' options='1'/>
     <repository uri='http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/' url='http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/' type='1' options='1'/>
-    <repository uri='http://danmunn.github.com/redmine_mylyn_connector/update/' url='http://danmunn.github.com/redmine_mylyn_connector/update/' type='1' options='0'/>
+    <repository uri='http://opensource.ljader.pl/update-site/redmine-mylyn-plugin/old/' url='http://opensource.ljader.pl/update-site/redmine-mylyn-plugin/old/' type='1' options='0'/>
     <repository uri='http://download.eclipse.org/tools/ajdt/36/update/' url='http://download.eclipse.org/tools/ajdt/36/update/' type='1' options='1'/>
     <repository uri='http://download.eclipse.org/mylyn/releases/latest' url='http://download.eclipse.org/mylyn/releases/latest' type='1' options='1'/>
-    <repository uri='http://danmunn.github.com/redmine_mylyn_connector/update/' url='http://danmunn.github.com/redmine_mylyn_connector/update/' type='0' options='0'/>
+    <repository uri='http://opensource.ljader.pl/update-site/redmine-mylyn-plugin/old/' url='http://opensource.ljader.pl/update-site/redmine-mylyn-plugin/old/' type='0' options='0'/>
     <repository uri='http://download.eclipse.org/tools/ajdt/36/update/' url='http://download.eclipse.org/tools/ajdt/36/update/' type='0' options='1'/>
     <repository uri='http://download.eclipse.org/mylyn/releases/latest' url='http://download.eclipse.org/mylyn/releases/latest' type='0' options='1'/>
   </references>
